@@ -20,7 +20,7 @@ RegisterNumber: 212223240020
 
 #include <stdio.h>
 #include <stdlib.h>
-
+node *rotateright(node *);  
 typedef struct node {
     int data;
     struct node *left, *right;
