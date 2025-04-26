@@ -1,4 +1,4 @@
-# Ex20 AVL Tree - Deletion
+# Ex 4E AVL Tree - Deletion
 ## DATE: 26.04.2025
 ## AIM:
 To write a C function to delete an element from an AVL Tree.
